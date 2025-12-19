@@ -160,7 +160,7 @@ facebook-sna-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/facebook-sna-analysis.git
+git clone https://github.com/Pranav-Alok/facebook-sna-analysis.git
 cd facebook-sna-analysis
 ```
 
@@ -171,11 +171,11 @@ pip install -r requirements.txt
 
 3. Place the dataset inside:
 ```text
-data/raw/facebook_combined.txt
+data/raw/facebook_combined.txt.gz
 ```
 
 4. Run notebooks in sequence to reproduce results
-5. Open `docs/index.html` in a browser for interactive exploration
+5. Open `facebook_communities_dynamic.html` in a browser for interactive exploration
 
 ---
 
