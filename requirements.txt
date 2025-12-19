@@ -1,0 +1,16 @@
+# Core network analysis
+networkx>=3.0
+python-louvain>=0.16
+
+# Data handling
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+plotly>=5.15
+pyvis>=0.3.2
+matplotlib>=3.7
+
+# Jupyter environment (recommended)
+jupyter>=1.0
+ipykernel>=6.25
