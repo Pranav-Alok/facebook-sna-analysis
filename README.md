@@ -100,7 +100,7 @@ The visualization is exported as a standalone **HTML file** and hosted using **G
 
 ## 🔍 Interactive Network Preview
 
-![Interactive Facebook Network Visualization](assets/network_preview.gif)
+![Interactive Facebook Network Visualization](assets/network_preview2.gif)
 
 > Preview of the physics-based, interactive community visualization built using PyVis.
 
