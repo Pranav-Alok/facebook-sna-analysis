@@ -98,6 +98,12 @@ The visualization is exported as a standalone **HTML file** and hosted using **G
 🔗 **Live interactive visualization:**  
 [Facebook Networks By Pranav Alok](https://pranav-alok.github.io/facebook-sna-analysis/facebook_communities_dynamic.html)
 
+## 🔍 Interactive Network Preview
+
+![Interactive Facebook Network Visualization](assets/network_preview.gif)
+
+> Preview of the physics-based, interactive community visualization built using PyVis.
+
 ---
 
 ## 🛠 Tools & Libraries
